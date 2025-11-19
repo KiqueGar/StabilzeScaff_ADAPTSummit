@@ -11,7 +11,7 @@ By creating a common framework, we can abstract load, material, connections, and
 ![Axions](Ax.jpg)
 
 ## Stabilize  steps:
-1. Start from a picture or diagram of your shaky scaff
+1. Start with a picture or diagram of the working structure
 2. Draft all load planes, draw the expected load direction
 3. If no coincident plane exists, create one as coincident as possible
 4. Evaluate the load
