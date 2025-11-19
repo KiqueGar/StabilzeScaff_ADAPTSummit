@@ -1,9 +1,6 @@
-# Presentation for the ADAPT Summit 2025
+# Presentation for the ADAPT Summit 2025 [Slides here](StabilizeScaff_handouts.pdf)
 Your gym must be a better alternative to a park, or you end up taking your coaching and classes at the park. On the same idea, we use this to create better parks.
 We can only design and build within our knowledge. This makes design knowledge essential for financial sustainability. What you cannot do yourself, you pay someone to do.
-
-## Find the slides [here](StabilizeScaff_handouts.pdf)
-
 ![FronPage](Header.jpg)
 
 
